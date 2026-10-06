@@ -36,10 +36,14 @@ white type, glowing ghost pills and three signal colours for what moves.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Ticker**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Console**. Install Borozdov Console under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Ticker** under Style Settings → Borozdov Console → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/ticker/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Ticker/`, then choose Borozdov Ticker under
 Settings → Appearance → Themes.
@@ -53,5 +57,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: тёмный «После торгов» — ночной
 торговый терминал, и светлый «До открытия» — тот же стол перед началом сессии. Матовый
 чёрный, светящийся белый текст, кнопки-призраки с ореолом и три сигнальных цвета для того,
-что движется. Шрифты не встроены. Устанавливается из каталога: Настройки → Оформление →
-Темы → Настроить → Borozdov Ticker → Установить и применить.
+что движется. Шрифты не встроены. В каталоге тема живёт вариантом Borozdov Console: установите Borozdov Console и плагин Style Settings, затем выберите Ticker в Style Settings → Borozdov Console → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
